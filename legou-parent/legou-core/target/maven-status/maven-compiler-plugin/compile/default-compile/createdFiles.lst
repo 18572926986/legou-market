@@ -1,0 +1,17 @@
+com\lxs\legou\core\exception\BaseExceptionHandler.class
+com\lxs\legou\core\json\JacksonJsonFilter.class
+com\lxs\legou\core\service\ICrudService.class
+com\lxs\legou\core\support\ApplicationContextProvider.class
+com\lxs\legou\core\dao\ICrudDao.class
+com\lxs\legou\core\utils\GenericUtil.class
+com\lxs\legou\core\po\ResponseBean.class
+com\lxs\legou\core\service\impl\CrudServiceImpl.class
+com\lxs\legou\core\controller\BaseController.class
+com\lxs\legou\core\po\BaseTreeEntity.class
+com\lxs\legou\core\json\JSON.class
+com\lxs\legou\core\support\DateConverterConfig.class
+com\lxs\legou\core\json\JacksonJsonFilter$1.class
+com\lxs\legou\core\json\CustomerJsonSerializer.class
+com\lxs\legou\core\po\BaseEntity.class
+com\lxs\legou\core\json\spring\JsonReturnHandler.class
+com\lxs\legou\core\json\JSONS.class
